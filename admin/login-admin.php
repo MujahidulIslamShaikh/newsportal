@@ -31,7 +31,7 @@ if(isset($_POST['submit'])){
 
     <div class="border border-orange-200 w-[40vw] mt-[30vh] mx-auto flex flex-col gap-14">
         <div class="text-center">
-            <h1 class=>NEWS PORTAL</h1>
+            <h1 class=>NEWS PORTAL</h1>    
             <h1>ADMIN LOGIN</h1>
         </div>
         <form action="" method="post" class="text-center flex flex-col gap-3">

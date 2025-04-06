@@ -1,9 +1,10 @@
 
-<?php include './include/head.php' ?>
+<?php include './include/head.php' ?>      
 <?php include './config/db.php' ?>
 
 
 <body>
+  <h1>this is head</h1>
 <div class="container">
 
   <div class="w-[80vw] mx-auto mt-10 flex gap-10">
