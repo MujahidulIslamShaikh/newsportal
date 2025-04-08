@@ -41,7 +41,7 @@ echo '<pre>';
 echo '</pre>';
 ?>
 
-<div class=" mb-[10vh]">
+<div class=" mb-[10vh] ">
 	<div class="w-[80vw] mx-auto grid grid-cols-3 gap-5 mt-10">
 		<!-- MAIN -->
 		<div class="col-span-2 posts flex flex-col gap-4">
