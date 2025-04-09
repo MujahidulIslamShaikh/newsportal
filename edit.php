@@ -5,6 +5,7 @@
 
 <body>
   <h1>this is head</h1>
+  <h2>This is Heading by Aish Alam</h2>
 <div class="container">
 
   <div class="w-[80vw] mx-auto mt-10 flex gap-10">
